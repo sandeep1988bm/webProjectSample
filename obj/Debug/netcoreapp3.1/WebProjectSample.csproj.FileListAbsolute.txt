@@ -37,3 +37,4 @@ C:\WebProjectSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\WebProjectSample\obj\Debug\netcoreapp3.1\WebProjectSample.RazorTargetAssemblyInfo.cache
 C:\WebProjectSample\obj\Debug\netcoreapp3.1\WebProjectSample.csproj.CopyComplete
 C:\WebProjectSample\obj\Debug\netcoreapp3.1\WebProjectSample.dll
+C:\WebProjectSample\obj\Debug\netcoreapp3.1\WebProjectSample.csprojAssemblyReference.cache
